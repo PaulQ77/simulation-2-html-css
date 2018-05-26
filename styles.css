@@ -1,0 +1,9 @@
+body > h1 {
+margin: 50px;
+border: 30px;
+padding: 20px;
+box-sizing: border-box;
+
+border: 1px solid red;
+}
+
